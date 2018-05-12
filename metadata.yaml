@@ -1,0 +1,43 @@
+_repo: The-Works-of-William-Shakespeare--Cambridge-Edition---9-vols.-Introduction-and-Publisher-s-Ad__23041
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+  editors:
+  - agent_name: Glover, John, librarian of Trinity College, Cambridge
+    gutenberg_agent_id: '25743'
+    url: http://www.gutenberg.org/2009/agents/25743
+  - agent_name: Clark, William George
+    aliases:
+    - Clark, W. G. (William George)
+    - Clarke, William George
+    birthdate: 1821
+    deathdate: 1878
+    gutenberg_agent_id: '25742'
+    url: http://www.gutenberg.org/2009/agents/25742
+description: ''
+gutenberg_issued: '2007-10-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23041'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+title: "The Works of William Shakespeare [Cambridge Edition] [Vol. 1 of 9]\r\nIntroduction\
+  \ and Publisher's Advertising"
+url: http://www.gutenberg.org/ebooks/23041
